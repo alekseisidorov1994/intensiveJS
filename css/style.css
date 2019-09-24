@@ -1,0 +1,15 @@
+body{
+    background-color:black;
+    color: white;
+}
+.hide{
+    display: none;
+}
+.start{
+    cursor: pointer;
+}
+.car{
+    width: 50px;
+    height: 100px;
+    background: url(../image/player.png) center center/cover no-repeat;
+}
